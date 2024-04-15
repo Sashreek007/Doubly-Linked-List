@@ -118,7 +118,7 @@ new_linked_list.insert(90,3)
 new_linked_list.pop_first()
 new_linked_list.pop_method()
 print(new_linked_list)
-print(new_linked_list.tail.next)
+
 
 
             
